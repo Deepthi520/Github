@@ -1,0 +1,22 @@
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\bin\Debug\netcoreapp3.1\CSharp Funda.exe
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\bin\Debug\netcoreapp3.1\CSharp Funda.deps.json
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\bin\Debug\netcoreapp3.1\CSharp Funda.runtimeconfig.json
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\bin\Debug\netcoreapp3.1\CSharp Funda.runtimeconfig.dev.json
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\bin\Debug\netcoreapp3.1\CSharp Funda.dll
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\bin\Debug\netcoreapp3.1\CSharp Funda.pdb
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\obj\Debug\netcoreapp3.1\CSharp Funda.csproj.AssemblyReference.cache
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\obj\Debug\netcoreapp3.1\CSharp Funda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\obj\Debug\netcoreapp3.1\CSharp Funda.AssemblyInfoInputs.cache
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\obj\Debug\netcoreapp3.1\CSharp Funda.AssemblyInfo.cs
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\obj\Debug\netcoreapp3.1\CSharp Funda.csproj.CoreCompileInputs.cache
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\obj\Debug\netcoreapp3.1\CSharp Funda.dll
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\obj\Debug\netcoreapp3.1\CSharp Funda.pdb
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\obj\Debug\netcoreapp3.1\CSharp Funda.genruntimeconfig.cache
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\bin\Debug\netcoreapp3.1\selenium-manager\linux\selenium-manager
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\bin\Debug\netcoreapp3.1\selenium-manager\macos\selenium-manager
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\bin\Debug\netcoreapp3.1\selenium-manager\windows\selenium-manager.exe
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\obj\Debug\netcoreapp3.1\CSharp Funda.csproj.CopyComplete
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\deepthi.kaluvapalli\source\repos\CSharp Funda\CSharp Funda\bin\Debug\netcoreapp3.1\FakeItEasy.dll

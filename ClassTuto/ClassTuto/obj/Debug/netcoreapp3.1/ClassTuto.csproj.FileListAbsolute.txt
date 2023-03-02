@@ -1,0 +1,14 @@
+C:\Users\deepthi.kaluvapalli\source\repos\ClassTuto\ClassTuto\bin\Debug\netcoreapp3.1\ClassTuto.exe
+C:\Users\deepthi.kaluvapalli\source\repos\ClassTuto\ClassTuto\bin\Debug\netcoreapp3.1\ClassTuto.deps.json
+C:\Users\deepthi.kaluvapalli\source\repos\ClassTuto\ClassTuto\bin\Debug\netcoreapp3.1\ClassTuto.runtimeconfig.json
+C:\Users\deepthi.kaluvapalli\source\repos\ClassTuto\ClassTuto\bin\Debug\netcoreapp3.1\ClassTuto.runtimeconfig.dev.json
+C:\Users\deepthi.kaluvapalli\source\repos\ClassTuto\ClassTuto\bin\Debug\netcoreapp3.1\ClassTuto.dll
+C:\Users\deepthi.kaluvapalli\source\repos\ClassTuto\ClassTuto\bin\Debug\netcoreapp3.1\ClassTuto.pdb
+C:\Users\deepthi.kaluvapalli\source\repos\ClassTuto\ClassTuto\obj\Debug\netcoreapp3.1\ClassTuto.csproj.AssemblyReference.cache
+C:\Users\deepthi.kaluvapalli\source\repos\ClassTuto\ClassTuto\obj\Debug\netcoreapp3.1\ClassTuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepthi.kaluvapalli\source\repos\ClassTuto\ClassTuto\obj\Debug\netcoreapp3.1\ClassTuto.AssemblyInfoInputs.cache
+C:\Users\deepthi.kaluvapalli\source\repos\ClassTuto\ClassTuto\obj\Debug\netcoreapp3.1\ClassTuto.AssemblyInfo.cs
+C:\Users\deepthi.kaluvapalli\source\repos\ClassTuto\ClassTuto\obj\Debug\netcoreapp3.1\ClassTuto.csproj.CoreCompileInputs.cache
+C:\Users\deepthi.kaluvapalli\source\repos\ClassTuto\ClassTuto\obj\Debug\netcoreapp3.1\ClassTuto.dll
+C:\Users\deepthi.kaluvapalli\source\repos\ClassTuto\ClassTuto\obj\Debug\netcoreapp3.1\ClassTuto.pdb
+C:\Users\deepthi.kaluvapalli\source\repos\ClassTuto\ClassTuto\obj\Debug\netcoreapp3.1\ClassTuto.genruntimeconfig.cache
